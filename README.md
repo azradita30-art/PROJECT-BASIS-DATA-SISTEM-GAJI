@@ -173,7 +173,7 @@ Kardinalitas hubungan antar entitas didefinisikan sebagai berikut:
 ### 3.3 Diagram Hubungan Entitas (ERD)
 Visualisasi diagram hubungan entitas (*Entity Relationship Diagram*) menggunakan notasi Crow's Foot untuk menggambarkan keterkaitan data secara menyeluruh:
 
-![Diagram ERD db_payroll](ERD.jpg)
+![Diagram ERD db_payroll](https://github.com/azradita30-art/PROJECT-BASIS-DATA-SISTEM-GAJI/blob/main/ERD.jpeg)
 
 ---
 
