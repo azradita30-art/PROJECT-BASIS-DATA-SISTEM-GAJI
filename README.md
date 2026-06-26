@@ -12,12 +12,11 @@ Dokumentasi ini disusun sebagai laporan utama luaran akademik untuk proyek mata 
 * **Tim Pengembang (Kelompok H):**
   
   | No | Nama Pengembang | Nomor Induk Mahasiswa (NIM) |
-  |---|---|---|---|---|
+  | :---: | :--- | :---: |
   | 1 | **Azra Dita Nurcahyati** | K1D024041 | 
-  | 2 | **Nadia Marsha** | K1D024046 | Database Designer & Analyst | 
-  | 3 | **Nur Aliyah Zizi Hamidah** | K1D024053 | ERD & Query Analyst | 
-  | 4 | **Affifah Tharra Arendra** | K1D024067 |  
-
+  | 2 | **Nadia Marsha** | K1D024046 |
+  | 3 | **Nur Aliyah Zizi Hamidah** | K1D024053 |
+  | 4 | **Affifah Tharra Arendra** | K1D024067 |
 * **Dosen Pengampu:** Luthfia Maharani, S.Stat., M.Stat.
 
 ---
