@@ -9,7 +9,7 @@ Dokumentasi ini disusun sebagai laporan utama luaran akademik untuk proyek mata 
 * **Judul Laporan:** Laporan Project Basis Data - Sistem Basis Data Penggajian Karyawan (Sistem Payroll)
 * **Institusi:** Program Studi S1 Statistika, Jurusan Matematika, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Jenderal Soedirman (UNSOED), Purwokerto.
 * **Tahun Akademik:** 2026
-* **Tim Pengembang (Kelompok H):**
+* **Tim Pengembang (Kelompok C):**
   
   | No | Nama Pengembang | Nomor Induk Mahasiswa (NIM) |
   | :---: | :--- | :---: |
