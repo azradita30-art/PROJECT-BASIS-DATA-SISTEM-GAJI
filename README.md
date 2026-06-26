@@ -4,19 +4,19 @@
 
 ## 📌 Identitas Proyek & Tim Pengembang
 
-Dokumentasi ini disusun sebagai laporan utama luaran akademik untuk praktikum dan proyek mata kuliah Sistem Basis Data. **Sistem Basis Data Penggajian Karyawan (db_payroll)** ini dirancang secara terstruktur untuk mengotomatisasi proses penggajian, pencatatan kehadiran, dan perhitungan kompensasi kerja secara terintegrasi.
+Dokumentasi ini disusun sebagai laporan utama luaran akademik untuk proyek mata kuliah Sistem Basis Data. **Sistem Basis Data Penggajian Karyawan (db_payroll)** ini dirancang secara terstruktur untuk mengotomatisasi proses penggajian, pencatatan kehadiran, dan perhitungan kompensasi kerja secara terintegrasi.
 
 * **Judul Laporan:** Laporan Project Basis Data - Sistem Basis Data Penggajian Karyawan (Sistem Payroll)
 * **Institusi:** Program Studi S1 Statistika, Jurusan Matematika, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Jenderal Soedirman (UNSOED), Purwokerto.
 * **Tahun Akademik:** 2026
-* **Tim Pengembang (Kelompok G):**
+* **Tim Pengembang (Kelompok H):**
   
-  | No | Nama Pengembang | Nomor Induk Mahasiswa (NIM) | Kontribusi & Peran Utama | Tanggung Jawab Utama |
+  | No | Nama Pengembang | Nomor Induk Mahasiswa (NIM) |
   |---|---|---|---|---|
-  | 1 | **Azra Dita Nurcahyati** | K1D024041 | Slide Designer & Programmable Lead | Penyusunan presentasi proyek, pembuatan Views, dan Functions basis data. |
-  | 2 | **Nadia Marsha** | K1D024046 | Database Designer & Analyst | Penyusunan skema DDL, penyusunan data dummy DML, dan penulisan laporan teknis. |
-  | 3 | **Nur Aliyah Zizi Hamidah** | K1D024053 | ERD & Query Analyst | Pembuatan diagram ERD, normalisasi data, penyusunan rancangan logis, dan optimasi query. |
-  | 4 | **Affifah Tharra Arendra** | K1D024067 | SQL Lead & Technical Writer | Penyusunan Stored Procedures, Triggers, pembuatan video demonstrasi, dan finalisasi laporan. |
+  | 1 | **Azra Dita Nurcahyati** | K1D024041 | 
+  | 2 | **Nadia Marsha** | K1D024046 | Database Designer & Analyst | 
+  | 3 | **Nur Aliyah Zizi Hamidah** | K1D024053 | ERD & Query Analyst | 
+  | 4 | **Affifah Tharra Arendra** | K1D024067 |  
 
 * **Dosen Pengampu:** Luthfia Maharani, S.Stat., M.Stat.
 
